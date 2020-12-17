@@ -31,13 +31,23 @@ a {
 }
 
 /* Header */
-header {
-}
-/* Content Section */
-.page-body {
-}
 
+/* Content Section */
 .body-img img {
     width: 65%;
     height: auto;
+}
+
+/* Footer */
+.footer-img {
+    margin-top: 1.25rem;
+}
+
+.footer-img img {
+    width: 4rem;
+    height: auto;
+}
+
+.watermark {
+    text-align: right;
 }
