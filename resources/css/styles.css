@@ -29,3 +29,15 @@ a {
     font-size: 1rem;
     color: aquamarine;
 }
+
+/* Header */
+header {
+}
+/* Content Section */
+.page-body {
+}
+
+.body-img img {
+    width: 65%;
+    height: auto;
+}
